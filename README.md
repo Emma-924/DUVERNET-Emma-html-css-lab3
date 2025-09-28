@@ -28,23 +28,7 @@ It contains a **one-page responsive website** that showcases the main sports tea
 
 ## 🌐 Live Demo  
 
-[Live demo](https://ton-github-username.github.io/LABERNARDIERE-Armand-html-css-lab3/)  
-
-*(Remplace `ton-github-username` par ton vrai identifiant GitHub une fois le repo publié)*  
-
----
-
-## ⚡ Features  
-
-- Responsive **Bootstrap Navbar**  
-- **Hero Section** avec image et call-to-action  
-- **Highlights** (3 cards avec icônes et boutons)  
-- **City Guide** avec images et boutons call-to-action  
-- **Teams Section** (Blue Jays, Maple Leafs, Raptors, Toronto FC)  
-- **FAQ Section** avec accordéon Bootstrap  
-- **Contact Section** (formulaire + infos pratiques côte à côte)  
-- **Subscribe Section** avec input et bouton CTA  
-- **Footer** stylisé  
+[Live demo]https://emma-924.github.io/DUVERNET-Emma-html-css-lab3/ 
 
 ---
 
